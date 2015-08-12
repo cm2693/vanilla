@@ -7,7 +7,7 @@
 <div id="Frame">
     <div class="Head" id="Head">
         <div class="Row">
-            <strong class="COMP356 Deployment Excersize"><a href="{link path="/"}">{logo}</a></strong>
+            <strong class="SiteTitle"><a href="{link path="/"}">{logo}</a></strong>
 
             <div class="SiteSearch">{searchbox}</div>
             <ul class="SiteMenu">
